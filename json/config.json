@@ -1,6 +1,6 @@
 [
   {
-    "TMDB": "26055910e8a3f41be2de31d500ceb42c",
-    "Proxy": "https://cors-anywhere.herokuapp.com/"
+    "TMDBReadKey": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyNjA1NTkxMGU4YTNmNDFiZTJkZTMxZDUwMGNlYjQyYyIsInN1YiI6IjY0OThmYjAwOTU1YzY1MDBlNjVmZTcwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Mv-uNmIc9DIzqykxXb44dOKhFsZEZfvyL4KM_T589Gw",
+    "CorsProxyURL": "https://cors-anywhere.herokuapp.com"
   }
 ]

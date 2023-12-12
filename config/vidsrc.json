@@ -1,0 +1,7 @@
+[
+  {
+    "movieEmbed": "https://vidsrc.to/embed/movie/{id}",
+    "seriesSeasonEmbed": "https://vidsrc.to/embed/tv/{id}/{season}",
+    "seriesEpEmbed": "https://vidsrc.to/embed/tv/{id}/{season}/{episode}"
+  }
+]
